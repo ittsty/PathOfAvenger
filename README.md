@@ -9,4 +9,12 @@
 
 Export game :  https://github.com/ittsty/PathOfAvenger/releases/tag/mainVersion  
 
-Video Gameplay :--กำลัง upload--  
+Video Gameplay : https://www.youtube.com/watch?v=UZnh-LFU1d8
+
+# How to play  
+W,A,S,D : เคลื่อนที่  
+Left-Click : โจมตี  
+E : เปลี่ยนคลาส  
+C : HP potion  
+V : MP potion  
+
