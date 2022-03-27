@@ -7,7 +7,7 @@
 สุวิมล ชูแสงกิจ 1913210579 sec2  
 พชร พูลสวัสดิ์ 1913210694 sec2  
 
-Export game :  https://github.com/ittsty/PathOfAvenger/releases/tag/mainVersion  
+Export game& UnityPackage:  https://github.com/ittsty/PathOfAvenger/releases/tag/mainVersion  
 
 Video Gameplay : https://www.youtube.com/watch?v=UZnh-LFU1d8
 
