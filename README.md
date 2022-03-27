@@ -9,4 +9,4 @@
 
 Export game :  https://github.com/ittsty/PathOfAvenger/releases/tag/mainVersion  
 
-Video Gameplay : https://youtu.be/UZnh-LFU1d8  
+Video Gameplay :--กำลัง upload--  
